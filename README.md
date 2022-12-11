@@ -2,8 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![UPRJ_CI](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml) [![Caravel Build](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml)
 
-:exclamation: # This project is still in the early stages of development
-
+| :exclamation: # This project is still early in development |
+|------------------------------------------------------------|
 Transmute is a 10 bit open source hardware (OSH) analog-to-digital converter (ADC) system.  It will initially target the SKY130 process and the Google Efabless MPW progrm..
 
 ## Block diagram
